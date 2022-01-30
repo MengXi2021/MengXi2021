@@ -1,7 +1,29 @@
-Hello!\(@^0^@)/            
-My name is MengXi2021!                    
-I'm a student!👨‍🎓                  
-Just an ordinary student!!!                
-I've learned it by now html and python.                            
-I live in China(oﾟvﾟ)ノ                          
-[![MengXi2021's github stats](https://github-readme-stats.vercel.app/api?username=MengXi2021)](https://github.com/MengXi2021/github-readme-stats)
+# Github Account of Zhunote or MengXi2021
+
+This is **ZhuNote (MengXi2022)**.
+
+This is my Github Account.
+
+# About Me
+
+- 👋 Hey!I'm [ZhuNote(MengXi2021)](https://mengxiblog.top/ "Go to my blog (Chinese)~")
+- 👀 I’m interested in HTML5 and Material Design!
+- 🌱 I’m currently learning HTML5/Python3/Java
+
+## How to reach me？
+
+📫 Please send a email at <me@zhunote.cn>
+
+🐧 Or ChinaQQ for [3418672426](http://wpa.qq.com/msgrd?v=3&uin=1570915261&site=qq&menu=yes "Add My QQ~")
+
+# My Blog Web
+
+This is my blog.Welcome to it——————<https://mengxiblog.top>
+
+# Work
+
+I was working with [WearBBS](https://wearbbs.cn "Go to the WearBBS Home").I can help WearBBS's Users.
+
+# Personal Service
+
+- **DogeCDN** : DogeCDN is a completely publicly available free global acceleration network, where users can upload any file that can be reviewed and provide a global distribution network download channel. You can view the [details](https://github.com/MengXi2021/dogecdn/) in this warehouse.

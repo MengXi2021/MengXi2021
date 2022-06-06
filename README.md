@@ -26,4 +26,4 @@ I was working with [WearBBS](https://wearbbs.cn "Go to the WearBBS Home").I can 
 
 # Personal Service
 
-- **Doge Static CDN** : Doge Static CDN is a completely publicly available free global acceleration network, where users can upload any file that can be reviewed and provide a global distribution network download channel. You can view the [details](https://static.nextsay.cn) in this warehouse.
+- **Doge Static CDN** : Doge Static CDN is a completely publicly available free global acceleration network, where users can upload any file that can be reviewed and provide a global distribution network download channel. You can view the [details](https://static.nextsay.cn) .

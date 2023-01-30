@@ -14,7 +14,7 @@ This is my Github Account.
 
 📫 Please send a email at <me@zhunote.cn>
 
-🐧 Or ChinaQQ for [3418672426](http://wpa.qq.com/msgrd?v=3&uin=1570915261&site=qq&menu=yes "Add My QQ~")
+🐧 Or QQ for [3418672426](http://wpa.qq.com/msgrd?v=3&uin=1570915261&site=qq&menu=yes "Add My QQ~")
 
 # My Blog Web
 
@@ -22,8 +22,8 @@ This is my blog.Welcome to it——————<https://mengxiblog.top>
 
 # Work
 
-I was working with [WearBBS](https://wearbbs.cn "Go to the WearBBS Home").I can help WearBBS's Users.
+I was working with DailyNotes Team.I can help there Users.
 
-# Personal Service
+# My Skills
 
-- **Doge Static CDN** : Doge Static CDN is a completely publicly available free global acceleration network, where users can upload any file that can be reviewed and provide a global distribution network download channel. You can view the [details](https://static.nextsay.cn) .
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,bootstrap,cloudflare,docker,git,github,gradle,heroku,java,kotlin,linux,md,mysql,netlify,nginx,nodejs,php,py,twitter,vscode,wordpress,xd)](https://skillicons.dev)

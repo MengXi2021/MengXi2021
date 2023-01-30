@@ -10,6 +10,8 @@ This is my Github Account.
 - 👀 I’m interested in React, C++ and Material Design!
 - 🌱 I’m currently learning HTML5/Python3/Java
 
+[![My GitHub Information](https://github-readme-stats.vercel.app/api?username=MengXi2021)]()
+
 ## How to reach me？
 
 📫 Please send a email at <me@zhunote.cn>
@@ -26,4 +28,4 @@ I was working with DailyNotes Team.I can help there Users.
 
 # My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,bootstrap,cloudflare,docker,git,github,gradle,heroku,java,kotlin,linux,md,mysql,netlify,nginx,nodejs,php,py,twitter,vscode,wordpress,xd,vim,redis,powershell,mongodb,kubernetes,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,bootstrap,cloudflare,docker,git,github,gradle,heroku,java,kotlin,linux,md,mysql,netlify,nginx,nodejs,php,py,twitter,vscode,wordpress,xd,vim,redis,powershell,mongodb,kubernetes,idea,react,cpp)](https://skillicons.dev)
